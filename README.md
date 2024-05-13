@@ -45,6 +45,7 @@ page 1:
   <div style="width: 85px; height: 37px; left: 91px; top: 312px; position: absolute; background: #D9D9D9"></div>
   <div style="width: 85px; height: 38px; left: 91px; top: 311px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">Enter</div>
 </div>
+
 page 2:
 
 <div style="width: 239px; height: 346px; position: relative; background: rgba(128.08, 219.38, 231.82, 0.99)">
